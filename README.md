@@ -40,4 +40,5 @@ If you like this project, give it a ⭐ on GitHub and share it with others!
 
 # Contacts
 linkedin (https://www.linkedin.com/in/abdur-raheem-240779327?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+<br>
 portfolio (https://abdurraheemportfolio.netlify.app/)
